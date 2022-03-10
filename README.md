@@ -9,6 +9,6 @@
 |------------|
 | ![hnet1](https://raw.githubusercontent.com/anurag1619/solutionImages/main/images/Screenshot%20from%202022-03-10%2016-24-59.png)    |
 
-|   File->Project Structure  | 
+|   File->Settings  | 
 |------------|
 | ![hnet1](https://raw.githubusercontent.com/anurag1619/solutionImages/main/images/Screenshot%20from%202022-03-10%2016-30-42.png)    |
