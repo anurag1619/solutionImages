@@ -5,6 +5,7 @@
     * Change  Android gradle plugin version to - 7.1.1
     * Change Android gradle version            - 7.2
     * Change Gradle jdk version                - 11
+    * Kotlin version - 1.6.10
     * Click on Gradle sync and run the project
     
 |   File->Project Structure  | 
